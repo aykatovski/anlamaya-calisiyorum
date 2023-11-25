@@ -1,0 +1,5 @@
+﻿  NET         HESAPLAMA.cpp
+C:\Users\hp\source\repos\NET         HESAPLAMA\NET         HESAPLAMA\NET         HESAPLAMA.cpp(6,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hp\source\repos\NET         HESAPLAMA\NET         HESAPLAMA\NET         HESAPLAMA.cpp(73,52): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hp\source\repos\NET         HESAPLAMA\NET         HESAPLAMA\NET         HESAPLAMA.cpp(78,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  NET         HESAPLAMA.vcxproj -> C:\Users\hp\source\repos\NET         HESAPLAMA\x64\Debug\NET         HESAPLAMA.exe
